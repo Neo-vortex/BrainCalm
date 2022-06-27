@@ -9,8 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8d6d04f-0fdf-4111-af44-89575c387f65" name="Changes" comment="small change">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BrainCalme/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrainCalm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrainCalm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrainCalme/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BrainCalme/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3fba4e46c5924223a2eef5edb75e87ea2c000/11/cb7bd324/StdInReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/82398487d3504242aa2e958ed63035969ec400/35/59ca8c30/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/20ff7d30274090d5181ebaf9cac148018b6a5b47e8ce7f6c056c8d99c2fbb/Byte.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BrainCalme/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -118,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656315234804</updated>
-      <workItem from="1656315238987" duration="14163000" />
+      <workItem from="1656315238987" duration="19682000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1656329084594</created>
