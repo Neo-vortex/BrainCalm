@@ -8,7 +8,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d6d04f-0fdf-4111-af44-89575c387f65" name="Changes" comment="init push" />
+    <list default="true" id="d8d6d04f-0fdf-4111-af44-89575c387f65" name="Changes" comment="small change">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BrainCalme/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BrainCalm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrainCalm/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656315234804</updated>
-      <workItem from="1656315238987" duration="13850000" />
+      <workItem from="1656315238987" duration="14163000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1656329084594</created>
@@ -124,7 +127,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656329084594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init push">
+      <created>1656329149382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656329149382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init push">
+      <created>1656329238650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656329238650</updated>
+    </task>
+    <task id="LOCAL-00004" summary="small change">
+      <created>1656329444169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656329444169</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +171,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init push" />
-    <option name="LAST_COMMIT_MESSAGE" value="init push" />
+    <MESSAGE value="small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="small change" />
   </component>
 </project>
