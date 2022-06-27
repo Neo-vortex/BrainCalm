@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainCalm", "BrainCalm\BrainCalm.csproj", "{5EDFEDE0-B0DB-4585-8E8C-4522FDC61C4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainCalme", "BrainCalme\BrainCalme.csproj", "{5EDFEDE0-B0DB-4585-8E8C-4522FDC61C4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
