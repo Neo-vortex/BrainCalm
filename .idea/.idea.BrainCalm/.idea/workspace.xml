@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d6d04f-0fdf-4111-af44-89575c387f65" name="Changes" comment="small change">
+    <list default="true" id="d8d6d04f-0fdf-4111-af44-89575c387f65" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrainCalm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrainCalm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BrainCalme/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BrainCalme/Program.cs" afterDir="false" />
     </list>
@@ -71,10 +71,10 @@
     </configuration>
     <configuration name="BrainCalm" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/BrainCalme/bin/Debug/net6.0/BrainCalme" />
-      <option name="PROGRAM_PARAMETERS" value="brainfuck.bf  " />
+      <option name="PROGRAM_PARAMETERS" value="brainfuck.bf  -c" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BrainCalme/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/BrainCalme/BrainCalme.csproj" />
@@ -119,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656315234804</updated>
-      <workItem from="1656315238987" duration="19682000" />
+      <workItem from="1656315238987" duration="22292000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1656329084594</created>
@@ -149,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656329444169</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Compiling option">
+      <created>1656335831866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656335831866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update README.md">
+      <created>1656335914383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656335914383</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +187,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init push" />
     <MESSAGE value="small change" />
-    <option name="LAST_COMMIT_MESSAGE" value="small change" />
+    <MESSAGE value="Added Compiling option" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
 </project>

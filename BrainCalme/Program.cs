@@ -45,17 +45,18 @@ public class MainClass
                               _builder.AppendLine(@"   if (*ptr == 10){
                                                               std::cout << std::endl;
                                                         }else{
-                                                             putchar(*ptr);
+                                                            std::cout << *ptr;
                                                          }");
                               break;
                           case ',':
                               _builder.AppendLine(@"std::cout << " + @"""" + "Enter Input:" + @"""" + "<< std::endl; ");
-                              _builder.AppendLine("*ptr = getchar();");
+                              _builder.AppendLine("std::cin >> *ptr;");
                               break;
                           case '[':
                               _builder.AppendLine("  while (*ptr) {");
                               
                               break;
+                        
                         
                           case ']' :
                               _builder.AppendLine("}");
@@ -65,7 +66,8 @@ public class MainClass
                   }
                   System.IO.File.Delete("./Compiled");
                   System.IO.File.WriteAllText("brainfuck.cpp" ,_upper + _builder.ToString() + _lower );
-                  Process.Start("g++", new[] { "brainfuck.cpp", "-O3" , "-oCompiled" , "-w" , "-fno-stack-protector" }).WaitForExit();
+                  Process.Start("g++", new[] { "brainfuck.cpp", "-Ofast" , "-oCompiled" , "-w" , "-fno-stack-protector" }).WaitForExit();
+                  Process.Start("g++", new[] { "-Ofast" , "-w" , "-fno-stack-protector" , "-S", "brainfuck.cpp" }).WaitForExit();
                   Process.Start("strip", new[] { "./Compiled" }).WaitForExit();
                   var proc = new Process 
                   {
